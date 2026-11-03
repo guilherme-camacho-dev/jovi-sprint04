@@ -1,0 +1,25 @@
+@import "tailwindcss";
+
+@theme {
+  --color-preto: #050816;
+  --color-branco: #f4f7ff;
+  --color-azul: #2189ff;
+  --color-roxo: #7d5fff;
+  --color-cinza: #aab3c5;
+  --color-texto: #d5dbea;
+
+  --font-orbitron: "Orbitron", sans-serif;
+  --font-poppins: "Poppins", sans-serif;
+}
+
+html {
+  scroll-behavior: smooth;
+  scroll-padding-top: 90px;
+}
+
+body {
+  font-family: var(--font-orbitron);
+  font-weight: 700;
+  color: var(--color-branco);
+  background: var(--color-preto);
+}

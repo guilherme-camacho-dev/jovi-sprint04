@@ -1,0 +1,9 @@
+Grupo: Tucunaré
+Sprint 04 - Front-End Design + Web Development
+-------------------------------------------
+Felipe Tajiri Cordeiro    - RM 569581
+Enzo Cesarino Pinto       - RM 569437
+Felipe Novais de Sousa    - RM 573411
+Guilherme Perez Camacho   - RM 571051
+Gustavo Henrique Palhares - RM 573190
+-------------------------------------------
